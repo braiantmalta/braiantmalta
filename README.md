@@ -4,7 +4,7 @@
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
 <div align="center">
-  <a href="https://github.com/mrbraiant">
+  <a href="https://github.com/braiantmalta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braiantmalta&show_icons=true&theme=blue-green&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiantmalta&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
