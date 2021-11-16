@@ -1,12 +1,12 @@
 ## Hey there,
 
-- 🌱 I’m currently learning more and more about JavaScript, ES6, React and React Native, Redux, Next, Node and Mobile Development.
+- 🌱 I’m currently learning more and more about JavaScript, ES6, React and React Native, Next, Node and Mobile Development.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
 <div align="center">
   <a href="https://github.com/mrbraiant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbraiant&show_icons=true&theme=blue-green&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbraiant&layout=compact&langs_count=9&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braiantmalta&show_icons=true&theme=blue-green&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiantmalta&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img alt="Braioso-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
