@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiantmalta&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <p>Skills:</p>
   <img alt="Braioso-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img alt="Braioso-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="Braioso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,12 +22,12 @@
   <img alt="Braioso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Braioso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Braioso-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img alt="Braioso-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="Braioso-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img alt="Braioso-Matrz" height="30" width="40" src="https://github.com/Dogfalo/materialize/blob/v1-dev/images/favicon/mstile-144x144.png">
-  <img alt="Braioso-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="Braioso-Mui" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-  <img alt="Braioso-Fig" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img alt="Braioso-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Braioso-Graph" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+  <img alt="Braioso-Matrz" height="30" width="40" src="https://github.com/Dogfalo/materialize/blob/v1-dev/images/favicon/mstile-144x144.png">
+  <img alt="Braioso-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
+  <img alt="Braioso-Fig" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
   <!--<img align="right" alt="Braioso-Gnomo" height="140" width="130" src="https://m.media-amazon.com/images/I/61efzGdADML._AC_SL1020_.jpg"> -->
 </div>
 
