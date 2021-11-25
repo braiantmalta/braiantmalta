@@ -16,6 +16,7 @@
   <img alt="Braioso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Braioso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Braioso-React" height="30" width="40" src="https://github.com/mrbraiant/devicon/blob/master/icons/react/react-original.svg">
+  <img alt="Braioso-Next" height="30" width="40" onmouseover="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img alt="Braioso-Redux" height="30" width="40" src="https://github.com/mrbraiant/devicon/blob/master/icons/redux/redux-original.svg">
   <img alt="Braioso-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img alt="Braioso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">-->
@@ -27,7 +28,7 @@
   <img alt="Braioso-Matrz" height="30" width="40" src="https://github.com/Dogfalo/materialize/blob/v1-dev/images/favicon/mstile-144x144.png">
   <img alt="Braioso-Graph" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">  
   <img alt="Braioso-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
-  <img alt="Braioso-Fig" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
+  <img alt="Braioso-Figm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
   <!--<img align="right" alt="Braioso-Gnomo" height="140" width="130" src="https://m.media-amazon.com/images/I/61efzGdADML._AC_SL1020_.jpg"> -->
 </div>
 
